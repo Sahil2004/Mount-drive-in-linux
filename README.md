@@ -56,7 +56,7 @@ The software was created by Sahil Garg.
 This was made for personal use but thought that might help others looking for some solution like this.
 
 ## Contribute
-You may contribute by updating the readme by submitting a pull request through a fork of the repo. You may add setup instrructions for other use cases and other distros. You may even contribute the code if you think there can be some more improvement in it. To make it unarchived DM me on twitter (@real_SahilGarg).
+You may contribute by updating the readme by submitting a pull request through a fork of the repo. You may add setup instrructions for other use cases and other distros. You may even contribute the code if you think there can be some more improvement in it.
 
 ## License
 To see the license open the LICENSE file in the repo.
